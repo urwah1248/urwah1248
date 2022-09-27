@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/urwah1248](https://github.com/urwah1248)
+- 👨‍💻 All of my projects are available at [https://github.com/urwah1248](https://github.com/urwah1248?tab=repositories)
 
 - 💬 Ask me about **html5, css3, javascript, reactjs, tailwindcss, community, relationship**
 
