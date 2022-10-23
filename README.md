@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/urwah1248](https://github.com/urwah1248?tab=repositories)
 
-- 💬 Ask me about **html5, css3, javascript, reactjs, tailwindcss, community, relationship**
+- 💬 Ask me about **html5, css3, javascript, reactjs, tailwindcss, community**
 
 - 📫 How to reach me **urwahpatel@gmail.com**
 
