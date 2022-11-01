@@ -3,7 +3,7 @@
 
 
 
-- 🌱 [Portfolio](https://urwah1248.github.io/portfolio/)
+- 🌱 [Portfolio](https://muhammadurwah.netlify.app/)
 
 - 👯 I’m looking to collaborate on **open source projects**
 
