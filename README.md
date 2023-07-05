@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Urwah</h1>
+<p align="center">
+  <img src="./banner.png"/>
+</p>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
 
