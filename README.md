@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./banner.png"/>
 </p>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">A Full Stack Web Developer from Pakistan</h3>
 
 
 
