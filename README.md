@@ -3,13 +3,13 @@
 
 
 
-- 🌱 [Portfolio](https://muhammadurwah.netlify.app/)
+- 🌱 Check out my [Portfolio](https://muhammadurwah.netlify.app/)
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/urwah1248](https://github.com/urwah1248?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, TailwindCSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, TailwindCSS, NextJS, MERN**
 
 - 📫 How to reach me **urwahpatel@gmail.com**
 
