@@ -6,7 +6,7 @@
 
 
 
-- 🌱 Check out my [Portfolio](https://muhammadurwah.netlify.app/)
+- 🌱 Check out my [Portfolio](https://muhammadurwah.vercel.app/)
 
 - 👯 I’m looking to collaborate on **open source projects**
 
