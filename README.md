@@ -34,5 +34,5 @@
 [![An image of @urwah1248's Holopin badges, which is a link to view his full Holopin profile](https://holopin.me/urwah1248)](https://holopin.io/@urwah1248)
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=urwah1248&theme=holi-theme&hide_border=true&card_width=550" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=urwah1248&theme=holi-theme&hide_border=true&card_width=1000" alt="GitHub Streak" /></a>
 </p>
